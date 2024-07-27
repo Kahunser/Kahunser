@@ -10,9 +10,9 @@
 - ⚡ Fun fact: Im white
 -->
 
-**┌─[kahunser@parrot]─[~]
+**┌─[kahunser@parrot]─[~]**
 
-└──╼ $** cat profile.txt
+**└──╼ $** cat profile.txt
 
 **Name:** Kahunser
 
