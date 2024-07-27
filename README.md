@@ -11,7 +11,6 @@
 -->
 
 **┌─[kahunser@parrot]**─**[~]**
-
 **└──╼ $** cat profile.txt
 **Name:** Kahunser
 **Age:** 404
