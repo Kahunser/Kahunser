@@ -11,12 +11,18 @@
 -->
 
 **┌─[kahunser@parrot]**─**[~]**
-**└──╼ $** cat profile.txt 
-**Name:** Kahunser 
-**Age:** 404 
-**Location:** 127.0.0.1 
-**Languages:** Python, C, Bash, PHP, English 
-**OS:** ParrotSec 6.1 
+  |
+**└──╼ $** cat profile.txt
+
+**Name:** Kahunser
+
+**Age:** 404
+
+**Location:** 127.0.0.1
+
+**Languages:** Python, C, Bash, PHP, English
+
+**OS:** ParrotSec 6.1
 
 <!--
 Kahunser/Kahunser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
