@@ -10,8 +10,8 @@
 - ⚡ Fun fact: Im white
 -->
 
-      ┌─[kahunser@parrot]─[~]
-      └──╼ $ cat profile.txt
+    ┌─[kahunser@parrot]─[~]
+    └──╼ $ cat profile.txt
       Name: Kahunser
       Age: 404
       Location: 127.0.0.1
