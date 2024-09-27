@@ -16,7 +16,7 @@
       Age: 404
       Location: 127.0.0.1
       Languages: Python, C, Bash, PHP, English
-      OS: ParrotSec 6.1
+      OS: ParrotSec 6.2
 
 
 <!--
