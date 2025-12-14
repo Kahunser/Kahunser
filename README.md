@@ -13,11 +13,9 @@
     ┌─[kahunser@parrot]─[~]
     └──╼ $ cat profile.txt
       Name: Kahunser
-      Age: 404
-      Location: 127.0.0.1
-      Languages: Python, C, Bash, PHP, English
-      OS: ParrotSec 6.3
-
+      Languages: English
+      OS: Parrot Security OS (always the lastest version)
+      Occupations: Cybersecurity Student
 
 <!--
 Kahunser/Kahunser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
